@@ -60,7 +60,7 @@
 		"js-yaml": "^3.14.0",
 		"npm-run-posix-or-windows": "^2.0.2",
 		"npmignore": "^0.3.1",
-		"nyc": "^10.3.2",
+		"nyc": "^17.1.0",
 		"safe-publish-latest": "^2.0.0",
 		"semver": "^6.3.1",
 		"tap": "^8.0.1",
