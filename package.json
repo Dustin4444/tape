@@ -54,7 +54,7 @@
 		"ecstatic": "^4.1.4",
 		"encoding": "^0.1.13",
 		"es-value-fixtures": "^1.7.1",
-		"eslint": "=8.8.0",
+		"eslint": "9.26.0",
 		"falafel": "^2.2.5",
 		"jackspeak": "=2.1.1",
 		"js-yaml": "^3.14.0",
